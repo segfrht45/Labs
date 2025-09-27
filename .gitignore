@@ -1,6 +1,11 @@
+# Visual Studio
 .vs/
+*.vsidx
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build
 bin/
 obj/
-*.user
-*.suo
-*.vsidx
